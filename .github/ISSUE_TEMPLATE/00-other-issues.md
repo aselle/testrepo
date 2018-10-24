@@ -1,5 +1,5 @@
 ---
-name: 00 Other Issues
+name: Other Issues
 about: Use this template for any other non-support related issues
 
 ---
